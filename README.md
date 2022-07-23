@@ -1,4 +1,4 @@
-# Intruder Detection And Automatic Email Alerting System <img src="https://user-images.githubusercontent.com/72980929/180616375-507c3739-82eb-457c-a181-fde61b11d494.png" width="50">
+# Intruder Detection And Email Alerting System <img src="https://user-images.githubusercontent.com/72980929/180616375-507c3739-82eb-457c-a181-fde61b11d494.png" width="50">
 
 
 This application is created for detecting unknown person that entered into the house. This Application detects the Intruder and give immediate alert to the owner of the house by 
